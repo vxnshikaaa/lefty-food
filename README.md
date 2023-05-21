@@ -9,7 +9,7 @@ excess food leftover to the needy ones.Lefty has a maps enabled location based f
 etc.. can register an institute in lefty and lefty connects them to people who can help them.
 
 ## Screenshots
-
+   
 ## DarkMode
 
 <p float="left">
